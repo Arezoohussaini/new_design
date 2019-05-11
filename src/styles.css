@@ -41,20 +41,15 @@ p {
   border: solid 1px blue;
   border-radius: 20px;
 }
-.horizontal{
-  width"50"
-}
-
 .circle {
   border: solid 2px red;
   border-radius: 200px;
-  width: ;
 }
 .horizantal {
   border: solid 2px black;
-  bordar-radius: 30px;
+  border-radius: 30px;
 
   width: 50%;
 
-  hight: 20px;
+  height: 20px;
 }
