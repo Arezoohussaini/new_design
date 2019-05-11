@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  color: lightblue;
+}
+p {
+  color: green;
+  font-size: 15px;
+}
+h2 {
+  color: red;
+  padding: 10px 20px;
+}
+h1,
+h2,
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+.rohullah {
+  font-family: "Times New Roman", Times, serif;
+}
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+}
+#title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#italic {
+  font-style: italic;
+}
+.ebi {
+  background-color: wheat;
+  margin: 20px auto;
+  width: 70%;
+  height: auto;
+  border: solid 1px blue;
+  border-radius: 20px;
+}
+.horizontal{
+  width"50"
+}
+
+.circle {
+  border: solid 2px red;
+  border-radius: 200px;
+  width: ;
+}
+.horizantal {
+  border: solid 2px black;
+  bordar-radius: 30px;
+
+  width: 50%;
+
+  hight: 20px;
+}
